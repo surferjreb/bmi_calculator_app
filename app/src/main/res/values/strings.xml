@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="title">BMI Calculator</string>
+    <string name="enter_weight">Enter your weight: </string>
+    <string name="enter_height">Enter your height: </string>
+    <string name="weight_hint">80</string>
+    <string name="height_hint">1.80</string>
+    <string name="calc_button">Calculate BMI</string>
+    <string name="result_title">Your BMI: </string>
+    <string name="bmi_result_hint">*****</string>
+    <string name="category_BMI_hint">BMI category appears here…</string>
+    <!-- The BMI Categories -->
+    <string name="very_underweight">Very Severely Underweight</string>
+    <string name="severely_underweight">Severely Underweight</string>
+    <string name="underweight">Underweight</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">Overweight</string>
+    <string name="obese_class_1">Obese Class 1: Moderately Obese</string>
+    <string name="obese_class_2">Obese Class 2: Severely Obese</string>
+    <string name="obese_class_3">Obese Class 3: Very Severely Obese</string>
+    <!-- Radio Buttons for values -->
+    <string name="Metric">Metric</string>
+    <string name="english_standard">Standard</string>
+</resources>
